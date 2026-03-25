@@ -1,8 +1,5 @@
 
-
-# Colab: Install all dependencies
-!pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-!pip install diffusers==0.21.0 transformers==4.30.2 accelerate==0.20.3 safetensors==0.3.1 xformers==0.0.20 Pillow==9.5.0 numpy==1.24.4 matplotlib==3.7.2 gradio==4.0.0
+ 
      
 
 # Imports and warning suppression
